@@ -49,38 +49,35 @@
 
 <h5><strong>TECNOLOGIAS</strong></h5>
 
-<span>
-  <img src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=flat-square&logo=dot-net&logoColor=white">
-</span>
-
-
-<span>
-  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
-</span>
-
-<span>
-  <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">
-</span>
-
-<span>
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
-</span>
-
-<span>
-  <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white">
-</span>
-
-<span>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white">
-</span>
-
-<span>
-  <img src="https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=flat-square&logo=xamarin&logoColor=white">
-</span>
-
-<span>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
-</span>
+• C# 🖤
+• DOTNET Framework / DOTNET Core
+• ASP DOTNET MVC / ASP DOTNET Core
+• Entity Framework / Entity Framework Core
+• SQL
+• T-SQL
+• MS SQL Server
+• MySQL
+• Software Architecture
+• Clean Architeture
+• Domain Modeling 
+• DDD
+• TDD
+• SOLID
+• Clean Code
+• MVC / MVVM
+• Design Patterns
+• Unit Tests
+• HTML / CSS / Javascript
+• ES 2018
+• Angular 2+
+• Xamarin
+• Dart
+• Flutter
+• Git / Github
+• Azure
+• Heroku
+• Azure DevOps
+• Scrum
 
 
 <br><br>
