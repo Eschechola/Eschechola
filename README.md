@@ -49,36 +49,37 @@
 
 <h5><strong>TECNOLOGIAS</strong></h5>
 
-• C# 🖤
-• DOTNET Framework / DOTNET Core
-• ASP DOTNET MVC / ASP DOTNET Core
-• Entity Framework / Entity Framework Core
-• SQL
-• T-SQL
-• MS SQL Server
-• MySQL
-• Software Architecture
-• Clean Architeture
-• Domain Modeling 
-• DDD
-• TDD
-• SOLID
-• Clean Code
-• MVC / MVVM
-• Design Patterns
-• Unit Tests
-• HTML / CSS / Javascript
-• ES 2018
-• Angular 2+
-• Xamarin
-• Dart
-• Flutter
-• Git / Github
-• Azure
-• Heroku
-• Azure DevOps
-• Scrum
-
+<ul>
+  <li>C# 🖤</li>
+  <li>DOTNET Framework / DOTNET Core</li>
+  <li>ASP DOTNET MVC / ASP DOTNET Core</li>
+  <li>Entity Framework / Entity Framework Core</li>
+  <li>SQL</li>
+  <li>T-SQL</li>
+  <li>MS SQL Server</li>
+  <li>MySQL</li>
+  <li>Software Architecture</li>
+  <li>Clean Architeture</li>
+  <li>Domain Modeling </li>
+  <li>DDD</li>
+  <li>TDD</li>
+  <li>SOLID</li>
+  <li>Clean Code</li>
+  <li>MVC / MVVM</li>
+  <li>Design Patterns</li>
+  <li>Unit Tests</li>
+  <li>HTML / CSS / Javascript</li>
+  <li>ES 2018</li>
+  <li>Angular 2+</li>
+  <li>Xamarin</li>
+  <li>Dart</li>
+  <li>Flutter</li>
+  <li>Git / Github</li>
+  <li>Azure</li>
+  <li>Heroku</li>
+  <li>Azure DevOps</li>
+  <li>Scrum</li>
+</ul>
 
 <br><br>
 <br>
