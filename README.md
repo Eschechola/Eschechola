@@ -1,6 +1,6 @@
 ### Olá, seja Bem Vindo!
 
-<table style="border: 1px solid transparent">
+<table border="2">
   <tr>
     <td><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></td>
     <td>
