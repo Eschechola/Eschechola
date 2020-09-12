@@ -1,4 +1,4 @@
-### Olá, meu nome é Lucas Eschechola e seja bem vindo ao meu Github!
+### Olá, seja bem vindo ao meu Github!
 
 <span>
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
