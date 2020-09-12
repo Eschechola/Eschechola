@@ -20,6 +20,11 @@
   </span>
 </a>
 
+<a href="https://eschechola.com.br">
+  <span>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </span>
+</a>
 
 
 <!--
