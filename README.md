@@ -1,16 +1,24 @@
 ### Olá, seja bem vindo ao meu Github!
 
-<span>
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</span>
+<br>
 
-<span>
-  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-</span>
+<a href="https://www.linkedin.com/in/lucas-eschechola-769179166/">
+  <span>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </span>
+</a>
 
-<span>
-  <img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
-</span>
+<a href="https://medium.com/@lucas.eschechola">
+  <span>
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </span>
+</a>
+
+<a href="https://eschechola.com.br">
+  <span>
+    <img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
+  </span>
+</a>
 
 
 
