@@ -28,8 +28,9 @@
 
 <br>
 
-<h5><strong>SOBRE</strong></h5>
+<h4><strong>SOBRE</strong></h4>
 
+<br>
 
 <p>Meu nome é Lucas Eschechola, tenho 20 anos, sou desenvolvedor de software a mais de 5 anos, também atuo dando palestras e ministro cursos na área de tecnologia, atualmente atuo ativamente com desenvolvimento e arquitetura de software e com ênfase em tecnologias relacionadas a plataforma .NET Framework e .NET Core especialista em desenvolvimento web e mobile.</p>
 
@@ -47,7 +48,9 @@
 
 <br>
 
-<h5><strong>TECNOLOGIAS</strong></h5>
+<h4><strong>TECNOLOGIAS</strong></h4>
+
+<br>
 
 <ul>
   <li>C# 🖤</li>
