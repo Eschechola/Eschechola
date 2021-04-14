@@ -8,15 +8,21 @@
   </span>
 </a>
 
-<a href="https://medium.com/@lucas.eschechola">
-  <span>
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-  </span>
-</a>
-
 <a href="https://eschechola.com.br">
   <span>
     <img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
+  </span>
+</a>
+
+<a href="https://www.youtube.com/channel/UCVO0fwRh6PgF-TvScmK3Lqw">
+  <span>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> 
+  </span
+</a>
+
+<a href="https://medium.com/@lucas.eschechola">
+  <span>
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </span>
 </a>
 
@@ -73,7 +79,9 @@
   <li>Unit Tests</li>
   <li>HTML / CSS / Javascript</li>
   <li>ES 2018</li>
+  <li>Typescript</li>
   <li>Angular 2+</li>
+  <li>VueJS</li>
   <li>Xamarin</li>
   <li>Dart</li>
   <li>Flutter</li>
