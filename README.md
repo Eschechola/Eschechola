@@ -1,4 +1,4 @@
-### BEM VINDO!
+### wELCOME!
 
 <br>
 
@@ -34,62 +34,70 @@
 
 <br>
 
-<h4><strong>SOBRE</strong></h4>
+<h4><strong>ABOUT ME</strong></h4>
 
 <br>
 
-<p>Meu nome é Lucas Eschechola, tenho 20 anos, sou desenvolvedor de software a mais de 5 anos, também atuo dando palestras e ministro cursos na área de tecnologia, atualmente atuo ativamente com desenvolvimento e arquitetura de software e com ênfase em tecnologias relacionadas a plataforma .NET Framework e .NET Core especialista em desenvolvimento web e mobile.</p>
+<p>Software developer, I have worked effectively in software development and architecture for years with an emphasis on technologies related to the .NET Framework and .NET Core platform, specialist in web development.</p>
 
 <br>
 
-<p>Trabalhei em projetos de pequeno a grande porte, variando de simples landing pages a grandes Ecommerce's criadas inteiramente do zero.</p>
+<p>I've worked on small to large projects ranging from simple landing pages to ecommerces built entirely from scratch.</p>
 
 <br>
 
-<p>Apaixonado por ARQUITETURA DE SOFTWARE, além de desenvolvedor, sou palestrante, professor de tecnologia e escritor, contribuindo para a comunidade técnica .NET de forma totalmente GRATUITA através de artigos e palestras.</p>
+<p>Completely in love with SOFTWARE ARCHITECTURE, besides being a developer, I am a lecturer, technology teacher and writer, contributing to the .NET technical community in a totally FREE way through articles and lectures.</p>
 
 <br>
 
-<p>Adoro contribuir com a comunidade técnica e passar o conhecimento que tenho para as pessoas, seja bem - vindo ao meu blog, fique a vontade pra entrar em CONTATO caso tenha alguma sugestão ou crítica construtiva, muito obrigado pela atenção. </p>
+<p>I currently assume the position of Sênior .NET Software Engineer at Rock Content, responsible for maintaining existing projects and developing new projects.</p>
 
 <br>
 
-<h4><strong>TECNOLOGIAS</strong></h4>
+<h4><strong>Tech Stack</strong></h4>
 
 <br>
 
 <ul>
   <li>C# 🖤</li>
-  <li>DOTNET Framework / DOTNET Core</li>
-  <li>ASP DOTNET MVC / ASP DOTNET Core</li>
-  <li>Entity Framework / Entity Framework Core</li>
+  <li>.NET Framework</li>
+  <li>.NET Core</li>
+  <li>ASP.NET MVC</li>
+  <li>ASP.NET Core</li>
+  <li>EF Framework</li>
+  <li>EF Core</li>
   <li>SQL</li>
   <li>T-SQL</li>
   <li>MS SQL Server</li>
   <li>MySQL</li>
+  <li>PostgreSQL</li>
   <li>Software Architecture</li>
   <li>Clean Architeture</li>
-  <li>Domain Modeling </li>
+  <li>Domain Modeling</li>
   <li>DDD</li>
   <li>TDD</li>
   <li>SOLID</li>
   <li>Clean Code</li>
-  <li>MVC / MVVM</li>
   <li>Design Patterns</li>
   <li>Unit Tests</li>
+  <li>Integration Tests</li>
   <li>HTML / CSS / Javascript</li>
-  <li>ES 2018</li>
+  <li>ES 2018+</li>
+  <li>NodeJS</li>
   <li>Typescript</li>
   <li>Angular 2+</li>
   <li>VueJS</li>
   <li>Xamarin</li>
   <li>Dart</li>
   <li>Flutter</li>
-  <li>Git / Github</li>
+  <li>Git</li>
+  <li>Github</li>
+  <li>Gitlab</li>
   <li>Azure</li>
   <li>Heroku</li>
   <li>Azure DevOps</li>
   <li>Scrum</li>
+  <li>Shell</li>
 </ul>
 
 <br><br>
