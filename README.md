@@ -20,7 +20,7 @@
   </span
 </a>
 
-<a href="https://medium.com/@lucas.eschechola">
+<a href="https://lucas-eschechola.medium.com/">
   <span>
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </span>
@@ -86,7 +86,7 @@
   <li>NodeJS</li>
   <li>Typescript</li>
   <li>Angular 2+</li>
-  <li>VueJS</li>
+  <li>React</li>
   <li>Xamarin</li>
   <li>Dart</li>
   <li>Flutter</li>
