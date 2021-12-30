@@ -50,15 +50,19 @@
 
 <br>
 
-<p>I currently assume the position of Sênior .NET Software Engineer at Rock Content, responsible for maintaining existing projects and developing new projects.</p>
+<p>I currently assume the position of Sênior .NET Software Engineer at Agile Content, responsible for maintaining existing projects and developing new projects.</p>
 
 <br>
 
-<h4><strong>Tech Stack</strong></h4>
+<p> Also in free time i work in my own plataform, ChLabs provides a lot of courses and articles to support the technical community :) </p>
 
 <br>
 
-<ul>
+    <h4><strong>Tech Stack</strong></h4>
+
+<br>
+
+ <ul>
   <li>C# 🖤</li>
   <li>.NET Framework</li>
   <li>.NET Core</li>
@@ -87,15 +91,18 @@
   <li>Typescript</li>
   <li>Angular 2+</li>
   <li>React</li>
-  <li>Xamarin</li>
-  <li>Dart</li>
+  <li>Vue</li>
   <li>Flutter</li>
+  <li>Dart</li>
+  <li>Xamarin</li>
   <li>Git</li>
   <li>Github</li>
   <li>Gitlab</li>
   <li>Azure</li>
-  <li>Heroku</li>
+  <li>AWS</li>
   <li>Azure DevOps</li>
+  <li>Docker</li>
+  <li>Kubernetes</li>
   <li>Scrum</li>
   <li>Shell</li>
 </ul>
@@ -103,6 +110,6 @@
 <br><br>
 <br>
 
-<p align="center">2021</p>
+<p align="center">2022</p>
 
 <br>
