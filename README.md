@@ -58,7 +58,7 @@
 
 <br>
 
-    <h4><strong>Tech Stack</strong></h4>
+<h4><strong>Tech Stack</strong></h4>
 
 <br>
 
