@@ -50,7 +50,7 @@
 
 <br>
 
-<p>I currently assume the position of Sênior .NET Software Engineer at Agile Content, responsible for maintaining existing projects and developing new projects.</p>
+<p>I currently assume the position of Software Architect at iClinic, responsible for maintaining existing projects and developing new projects.</p>
 
 <br>
 
